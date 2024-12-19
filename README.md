@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm KayWat</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Chris Loetz</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Focus-AI%20Development-C2FFC7?style=flat" />
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20Views&color=C2FFC7&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
 </p>
 
 <details open>
@@ -61,18 +61,15 @@
 <details open>
 <summary>GitHub Stats</summary>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsKayWat&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="itsKayWat's GitHub stats" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsKayWat&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="itsKayWat's GitHub stats" />
 </p>
+
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsKayWat&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="itsKayWat's streak" />
+    <img src="https://streak-stats.demolab.com?user=itsKayWat&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="itsKayWat's streak"/>
 </p>
 
 <h3 align="center">Contribution Snake</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="github-snake" src="dist/github-snake.svg" />
-  </picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 </details>
