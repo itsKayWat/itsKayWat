@@ -32,7 +32,7 @@
     <a href="https://www.twitch.tv/xl_kaywat_lx">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
     </a>
-    <a href="https://fixmyapple.org">
+    <a href="https://www.fixmyapple.org">
         <img src="https://img.shields.io/badge/FixMyApple-000000?style=for-the-badge&logo=apple&logoColor=white" />
     </a>
 </p>
