@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Chris Loetz</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm KayWat</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Focus-AI%20Development-C2FFC7?style=flat" />
@@ -68,5 +68,11 @@
 </p>
 
 <h3 align="center">Contribution Snake</h3>
-<img src="https://github.com/itsKayWat/itsKayWat/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github-snake" src="dist/github-snake.svg" />
+  </picture>
+</div>
 </details>
