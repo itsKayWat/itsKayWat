@@ -126,7 +126,7 @@
 </a>
 <br>
 <p>
-    <img src="https://profile-counter.glitch.me/itsKayWat/count.svg" alt="Visitor Count"/>
+    <img src="https://img.shields.io/badge/Nexus%20AI%20Launch-825%20Days-C2FFC7?style=for-the-badge&logo=clockify&logoColor=black" alt="Launch Countdown"/>
 </p>
 <blockquote>
 <p><strong>"Keep coding, stay innovative, and build the future! ✨"</strong></p>
