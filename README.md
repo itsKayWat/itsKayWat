@@ -73,3 +73,20 @@
   <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 </details>
+
+<details open>
+<summary>Support My Coffee Habit ☕️</summary>
+<h2 align="center">💰 Donate to KayWat</h2>
+<p align="center">Your support keeps me fueled and creating! Thanks!</p>
+<p align="center">
+    <a href="https://www.paypal.com/donate/?hosted_button_id=J3ABMPG6MQF3L">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+    </a>
+    <a href="https://www.paypal.com/donate/?hosted_button_id=J3ABMPG6MQF3L">
+        <img src="https://img.shields.io/badge/Buy%20Me%20Two%20Coffees-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    </a>
+    <a href="https://www.paypal.com/donate/?hosted_button_id=J3ABMPG6MQF3L">
+        <img src="https://img.shields.io/badge/Buy%20Me%20Three%20Coffees-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+    </a>
+</p>
+</details>
