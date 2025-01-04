@@ -59,6 +59,31 @@
 </details>
 
 <details open>
+<summary>Top Repositories</summary>
+<p align="center">
+    <a href="https://github.com/itsKayWat/ChatGPT-Recipe_Studio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsKayWat&repo=ChatGPT-Recipe_Studio&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/itsKayWat/GitSwift">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsKayWat&repo=GitSwift&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/itsKayWat/Smart_Text_Expander">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsKayWat&repo=Smart_Text_Expander&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/itsKayWat/Nexus_Ai_Streaming_Platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsKayWat&repo=Nexus_Ai_Streaming_Platform&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    </a>
+</p>
+</details>
+
+<details open>
+<summary>GitHub Contribution Chart</summary>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsKayWat&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+</p>
+</details>
+
+<details open>
 <summary>GitHub Stats</summary>
 <p align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsKayWat&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="itsKayWat's GitHub stats" />
@@ -94,3 +119,19 @@
     </a>
 </p>
 </details>
+
+<div align="center">
+<a href="#">
+    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
+</a>
+<br>
+<p>
+    <img src="https://profile-counter.glitch.me/itsKayWat/count.svg" alt="Visitor Count"/>
+</p>
+<blockquote>
+<p><strong>"Keep coding, stay innovative, and build the future! ✨"</strong></p>
+</blockquote>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer"/>
+</p>
+</div>
