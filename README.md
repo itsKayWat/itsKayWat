@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
+    <img src="https://komarev.com/ghpvc/?username=itsKayWat&color=C2FFC7&style=flat" />
 </p>
 
 <details open>
