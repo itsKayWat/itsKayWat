@@ -11,19 +11,6 @@
 </p>
 
 <details open>
-<summary>About Me</summary>
-<ul>
-<li>🔭 Founder of NexusStream Project AI</li>
-<li>🌱 Currently focused on AI Development & Automation</li>
-<li>👨‍💻 All projects available at <a href="https://github.com/itsKayWat">GitHub</a></li>
-<li>🏠 Visit my website at <a href="https://www.kaywat.me">kaywat.me</a></li>
-<li>📫 Contact me at <strong>info@kaywat.me</strong></li>
-<li>🎥 Find me on TikTok <a href="https://www.tiktok.com/@ll_kaywat_ll">@ll_kaywat_ll</a></li>
-<li>⚡ Fun fact: I'm one of the crazy ones who thinks they can change the world</li>
-</ul>
-</details>
-
-<details open>
 <summary>Connect With Me</summary>
 <p align="center">
     <a href="https://www.tiktok.com/@ll_kaywat_ll">
@@ -36,6 +23,26 @@
         <img src="https://img.shields.io/badge/FixMyApple-000000?style=for-the-badge&logo=apple&logoColor=white" />
     </a>
 </p>
+</details>
+
+<details open>
+<summary>Developer Quote</summary>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=The+people+who+are+crazy+enough+to+think+they+can+change+the+world;are+the+ones+who+do.++-+Steve+Jobs" alt="Developer Quote"/>
+</p>
+</details>
+
+<details open>
+<summary>About Me</summary>
+<ul>
+<li>🔭 Founder of NexusStream Project AI</li>
+<li>🌱 Currently focused on AI Development & Automation</li>
+<li>👨‍💻 All projects available at <a href="https://github.com/itsKayWat">GitHub</a></li>
+<li>🏠 Visit my website at <a href="https://www.kaywat.me">kaywat.me</a></li>
+<li>📫 Contact me at <strong>info@kaywat.me</strong></li>
+<li>🎥 Find me on TikTok <a href="https://www.tiktok.com/@ll_kaywat_ll">@ll_kaywat_ll</a></li>
+<li>⚡ Fun fact: I'm one of the crazy ones who thinks they can change the world</li>
+</ul>
 </details>
 
 <details open>
