@@ -33,6 +33,18 @@
 </details>
 
 <details open>
+<summary>Join Our Discord Community</summary>
+<p align="center">
+    <a href="https://discord.gg/x5ywDpUUuR">
+        <img src="https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
+    </a>
+</p>
+<p align="center">
+    Join us on Discord to collaborate on projects, discuss ideas, and build a community. Everyone is welcome!
+</p>
+</details>
+
+<details open>
 <summary>About Me</summary>
 <ul>
 <li>🔭 Founder of NexusStream Project AI</li>
