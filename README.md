@@ -169,7 +169,7 @@
     <h3 style="color: #FFD700; background: #111; padding: 10px; border-radius: 10px; border: 2px solid #FFD700; display: inline-block;">
         🚀 Monthly Memberships Coming Soon! 
         <br/>
-        <small style="color: #C2FFC7;">Join our waitlist to get notified when we launch!</small>
+        <small style="color: #C2FFC7;">Join our Discord waitlist to get notified when we launch!</small>
     </h3>
 </div>
 
