@@ -137,7 +137,113 @@
         <img src="https://img.shields.io/badge/Buy%20Me%20Three%20Coffees-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
     </a>
 </p>
+
+<p align="center">
+    <table align="center">
+        <tr>
+            <td align="center">
+                <b>2025 Supporters</b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                🥇 DGani Adventures - First Supporter!
+            </td>
+        </tr>
+    </table>
+</p>
 </details>
+
+<div align="center" style="margin: 20px;">
+    <table align="center" style="border-collapse: collapse; width: 80%;">
+        <tr>
+            <td align="center" style="padding: 10px;">
+</div>
+<p align="center">A heartfelt thank you to those who go above and beyond! Your support is invaluable. 💖</p>
+
+<p align="center">
+    <i>Your support keeps the innovation alive! 🚀</i>
+</p>
+
+<div align="center">
+    <h3 style="color: #FFD700; background: #111; padding: 10px; border-radius: 10px; border: 2px solid #FFD700; display: inline-block;">
+        🚀 Monthly Memberships Coming Soon! 
+        <br/>
+        <small style="color: #C2FFC7;">Join our waitlist to get notified when we launch!</small>
+    </h3>
+</div>
+
+<table align="center" style="border-collapse: separate; border-spacing: 10px;">
+    <tr>
+        <td align="center" style="background: #111; padding: 15px; border-radius: 10px; border: 1px solid #C2FFC7">
+            <h4>☕️ Coffee Buddy</h4>
+            <strong>$5/month</strong>
+            <br/><br/>
+            • Special Discord Role
+            <br/>
+            • Supporter Badge
+            <br/>
+            • Monthly Updates
+            <br/>
+            • Community Access
+            <br/>
+            <br/>
+            <em>Coming Soon:</em>
+            <br/>
+            • Basic Automation Tools
+            <br/>
+            • Community UGC Templates
+        </td>
+        <td align="center" style="background: #111; padding: 15px; border-radius: 10px; border: 1px solid #CB9DF0">
+            <h4>☕️⚡ Code Partner</h4>
+            <strong>$10/month</strong>
+            <br/><br/>
+            • All Coffee Buddy Benefits
+            <br/>
+            • Priority Discord Support
+            <br/>
+            • Private Community Access
+            <br/>
+            <br/>
+            <em>Coming Soon:</em>
+            <br/>
+            • Streaming Service Discounts
+            <br/>
+            • Advanced Automation Suite
+            <br/>
+            • Digital Marketing Tools
+            <br/>
+            • Business Growth Resources
+        </td>
+        <td align="center" style="background: #111; padding: 15px; border-radius: 10px; border: 1px solid #FFD700">
+            <h4>☕️👑 Premium Brew</h4>
+            <strong>$25/month</strong>
+            <br/><br/>
+            • All Double Shot Benefits
+            <br/>
+            • Direct Admin Communication
+            <br/>
+            • VIP Discord Channel
+            <br/>
+            <br/>
+            <em>Coming Soon:</em>
+            <br/>
+            • Premium Streaming Packages
+            <br/>
+            • Enterprise Automation Tools
+            <br/>
+            • Priority UGC Consulting
+            <br/>
+            • Custom Business Solutions
+            <br/>
+            • Private Dev Team Access
+        </td>
+    </tr>
+</table>
+
+<p align="center" style="font-style: italic; color: #C2FFC7;">
+    🛠️ Currently building: Email marketing integration, Discord community, automation tools, and secure member portal
+</p>
 
 <div align="center">
 <a href="#">
